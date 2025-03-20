@@ -1,2 +1,3 @@
 # Primeiro-GitHub
-Primeiro GitHub nas aulas de DW - Sistemas de Informação, Unifebe
+Primeiro GitHub das aulas de DW - Sistemas de Informação, Unifebe
+Desenvolvido por Arthur Melato para a APS...
